@@ -1,0 +1,29 @@
+{
+  "name": "cmds-generator",
+  "version": "1.0.0",
+  "description": "A simple framework for CMD Studio to build frontend",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.20.0",
+    "download-git-repo": "^1.1.0",
+    "ora": "^3.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "cmds-generator": "bin/cmds-generator",
+    "cmds-generator-init": "bin/init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Yzzzed/cmds-generator.git"
+  },
+  "author": "Yzed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yzzzed/cmds-generator/issues"
+  },
+  "homepage": "https://github.com/Yzzzed/cmds-generator#readme"
+}
