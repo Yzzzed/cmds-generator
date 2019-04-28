@@ -1,6 +1,6 @@
 {
   "name": "cmds-generator",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple framework for CMD Studio to build frontend",
   "main": "index.js",
   "dependencies": {
