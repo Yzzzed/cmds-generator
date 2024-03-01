@@ -18,9 +18,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Yzzzed/cmds-generator.git"
+    "url": "https://github.com/Yzzzed/cmds-generator.git"
   },
-  "author": "Yzed",
+  "author": "Yzzzed",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Yzzzed/cmds-generator/issues"
